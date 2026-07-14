@@ -11,13 +11,6 @@ Operating efficient airline schedules is a critical challenge. This project focu
 
 
 
-
-
-<img width="934" height="553" alt="Airline1" src="https://github.com/user-attachments/assets/ed02e164-c27f-4043-9efe-e8fd84a5c991" />
-
-
-
-
 ### 🔍 Key Objectives:
 *   Identify primary drivers of flight delays (Carrier, Weather, National Air System, Security, and Late Aircraft).
 *   Analyze flight cancellation patterns and decode their operational reasons.
@@ -82,12 +75,14 @@ The report layout prioritizes a clean, user-centric **UI/UX** designed for seaml
 <img width="1081" height="552" alt="DrillThroughphoto" src="https://github.com/user-attachments/assets/d5650658-c281-4398-8c89-ff65af6abb15" />
 
 
-<img width="937" height="552" alt="ToolTip" src="https://github.com/user-attachments/assets/0ff9b867-e4fa-4d39-bccb-1ffc0f359382" />
+<img width="944" height="551" alt="DrillThroughPage" src="https://github.com/user-attachments/assets/0ef17240-00cf-4419-a2c5-3f7dad426d68" />
+
 
 
 *   **Custom Tooltips:** Hovering over charts reveals secondary contextual metrics without cluttering the canvas.
 
-<img width="944" height="551" alt="DrillThroughPage" src="https://github.com/user-attachments/assets/0ef17240-00cf-4419-a2c5-3f7dad426d68" />
+<img width="937" height="552" alt="ToolTip" src="https://github.com/user-attachments/assets/0ff9b867-e4fa-4d39-bccb-1ffc0f359382" />
+
 
 
 <img width="731" height="551" alt="Tooltip Page" src="https://github.com/user-attachments/assets/947588ad-1f68-4153-b467-c89ad6936dfd" />
