@@ -51,8 +51,10 @@ All calculations and KPIs are isolated in a dedicated **`_Measures`** table to e
 
 *   **On-Time Performance (OTP) %:** Percentage of flights arriving within the acceptable threshold.
 *   **Cancellation Rate:** Percentage of scheduled flights that were cancelled.
+
   
   <img width="936" height="554" alt="Cancellation" src="https://github.com/user-attachments/assets/42e6b067-dc81-4a47-a326-1d001e11d146" />
+
   
 ---
 
@@ -63,16 +65,24 @@ The report layout prioritizes a clean, user-centric **UI/UX** designed for seaml
 
 *   **Geographical Map Integration:** Visualized flight paths, delay magnitudes, and airport traffic distribution across the US using interactive maps.
 
+
   <img width="936" height="546" alt="Map" src="https://github.com/user-attachments/assets/8e4ff3e8-7daa-4453-9e37-eb79cf124f21" />
+
 
 *   **AI-Powered Q&A:** Integrated natural language processing (Q&A visual) to allow users to ask questions about delay causes in plain English and get instant visual answers.
 
+
+
 <img width="932" height="545" alt="Q A" src="https://github.com/user-attachments/assets/b698c636-78d1-400d-947f-c88fb9b5e123" />
+
+
 
 *   **Drill-Down Capabilities:** Easily dive from high-level yearly trends down to monthly and daily specifics.
 *   **Drill-Through Actions:** Right-click on any specific carrier or airport to open a detailed performance sheet.
+
     
 <img width="1081" height="552" alt="DrillThroughphoto" src="https://github.com/user-attachments/assets/d5650658-c281-4398-8c89-ff65af6abb15" />
+
 
 
 <img width="944" height="551" alt="DrillThroughPage" src="https://github.com/user-attachments/assets/0ef17240-00cf-4419-a2c5-3f7dad426d68" />
@@ -81,11 +91,14 @@ The report layout prioritizes a clean, user-centric **UI/UX** designed for seaml
 
 *   **Custom Tooltips:** Hovering over charts reveals secondary contextual metrics without cluttering the canvas.
 
+
 <img width="937" height="552" alt="ToolTip" src="https://github.com/user-attachments/assets/0ff9b867-e4fa-4d39-bccb-1ffc0f359382" />
 
 
 
+
 <img width="731" height="551" alt="Tooltip Page" src="https://github.com/user-attachments/assets/947588ad-1f68-4153-b467-c89ad6936dfd" />
+
 
 
 *   **Advanced Navigation:** Fully interactive dashboard integrated with synchronized slicers, bookmarks, and reset buttons.
@@ -111,15 +124,3 @@ Because the original `.pbix` file exceeds GitHub's file size limits (100MB), the
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-seamless filter propagation over millions of records, a robust **Star Schema** was implemented:
